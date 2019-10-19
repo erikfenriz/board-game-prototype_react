@@ -1,2 +1,2 @@
-# Small React Native blog prototype with expo
+# Small React board game prototype
 > npm start || npm run build
