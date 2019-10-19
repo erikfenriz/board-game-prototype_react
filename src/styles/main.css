@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+table {
+    background: #ffffff;
+    border-collapse: collapse;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+tr {
+    border-bottom: 1px solid #dcdcdc;
+}
+
+td {
+    color: black;
+    padding: 100px;
+    background: #d1ecc8;
+    border-radius: 5px;
+    border: 2px solid #ededef;
+}
+
+td {
+    padding: 20px;
+    background: transparent;
+    border-radius: 5px;
+    opacity: 0.8;
+}
